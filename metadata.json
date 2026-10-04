@@ -1,0 +1,6 @@
+{
+  "name": "Christian Wings Ministries",
+  "description": "An ultra-luxurious sanctuary web experience for Christian Wings Ministries featuring monumental typography, celestial light motion, and faith gatherings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
